@@ -1,7 +1,7 @@
 # LLMsFT_LoRA
 Efficient LLMs fine-tune technique LoRA replication. 
 
-Please find the 4-page report here: https://github.com/muyuhuatang/LLMsFT_LoRA/blob/main/On_Investigation_of_LoRA_fine_tuning_on_LLMs__NLU_Performance.pdf
+Please find the 4-page report here: [https://github.com/muyuhuatang/LLMsFT_LoRA/blob/main/On_Investigation_of_LoRA_fine_tuning_on_LLMs__NLU_Performance.pdf](https://github.com/muyuhuatang/LLMsFT_LoRA/blob/main/report/On_Investigation_of_LoRA_fine_tuning_on_LLMs__NLU_Performance.pdf)
 
 You can also find all my generation results in the \result folder here in this repo.
 
