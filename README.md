@@ -13,3 +13,13 @@ You can also find all my generation results in the \result folder here in this r
 The implicit hate speech dataset comes from the open-sourced NLP dataset, the paper's name is: $Latent Hatred: A Benchmark for Understanding Implicit Hate Speech$.
 
 Financial information is manually collected as the sample in the website of: https://www.cnbc.com/quotes/BTC.CM=
+
+
+## References:
+1. https://deci.ai/blog/fine-tune-llama-2-with-lora-for-question-answering/
+2. https://www.datacamp.com/tutorial/fine-tuning-llama-2
+3. https://arxiv.org/pdf/2309.13064
+4. https://arxiv.org/abs/2403.12285
+5. https://huggingface.co/datasets/gbharti/finance-alpaca?row=84
+6. https://www.kaggle.com/datasets/notlucasp/financial-news-headlines?resource=download&select=cnbc_headlines.csv
+7. https://arxiv.org/pdf/2402.06698
