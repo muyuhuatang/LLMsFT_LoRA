@@ -15,7 +15,7 @@ The implicit hate speech dataset comes from the open-sourced NLP dataset, the pa
 Financial information is manually collected as the sample in the website of: https://www.cnbc.com/quotes/BTC.CM=
 
 
-## References:
+## References
 1. https://deci.ai/blog/fine-tune-llama-2-with-lora-for-question-answering/
 2. https://www.datacamp.com/tutorial/fine-tuning-llama-2
 3. https://arxiv.org/pdf/2309.13064
