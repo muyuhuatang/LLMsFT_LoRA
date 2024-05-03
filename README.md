@@ -1,5 +1,8 @@
 # LLMsFT_LoRA
-Efficient LLMs fine-tune technique LoRA replication. 
+Efficient LLMs fine-tune technique LoRA replication. Here is one easy-to-run code and preliminary investigation report on utilizing the LoRA to foster the fine-tuning process of LLM (here is Llama2); interesting findings:
+1. The LoRA technique can make fine-tuned llama2-7b much smarter and not just generate meaningless content for general questions
+2. The LoRA technique can make fine-tuned llama2-13b-chat model very efficient, requiring less than 100 GB GPU memory, and just a few minutes to fine-tune 1 epoch on 1000 instances
+3. LoRA fine-tuned llama2-13b-chat model can be close to ChatGPT-level performance in certain downstream tasks (Preliminary results right now).
 
 Please find the 4-page report here: [https://github.com/muyuhuatang/LLMsFT_LoRA/blob/main/On_Investigation_of_LoRA_fine_tuning_on_LLMs__NLU_Performance.pdf](https://github.com/muyuhuatang/LLMsFT_LoRA/blob/main/report/On_Investigation_of_LoRA_fine_tuning_on_LLMs__NLU_Performance.pdf)
 
