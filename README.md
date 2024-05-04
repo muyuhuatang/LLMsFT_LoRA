@@ -10,9 +10,13 @@ You can also find all my generation results in the \result folder here in this r
 
 
 ## Disclosure
-The implicit hate speech dataset comes from the open-sourced NLP dataset, the paper's name is: $Latent Hatred: A Benchmark for Understanding Implicit Hate Speech$.
+The implicit hate speech dataset comes from the open-sourced NLP dataset; the paper's name is $Latent Hatred: A Benchmark for Understanding Implicit Hate Speech$.
 
-Financial information is manually collected as the sample in the website of: https://www.cnbc.com/quotes/BTC.CM=
+Fine-tuning corpus source:
+- guanaco-llama2-1k: https://huggingface.co/datasets/mlabonne/guanaco-llama2-1k
+- finance-alpaca: https://huggingface.co/datasets/gbharti/finance-alpaca
+
+The data instances of Bitcoin market value trend prediction task is manually collected as the sample in the website: https://www.cnbc.com/quotes/BTC.CM=
 
 
 ## References
